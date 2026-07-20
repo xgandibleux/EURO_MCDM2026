@@ -13,7 +13,7 @@ Resources Used During Lectures (working on it):
 - [slides](1.slides/)
 - [documents](2.documents/)
 - [examples](3.examples/)
-- [notebooks](4.notebooks/)
+- [exercises](4.exercises)
 
 Additional Resources:
 - [selected topics on Julia](5.julia/)
