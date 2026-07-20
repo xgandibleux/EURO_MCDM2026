@@ -10,10 +10,10 @@ Steps to follow to install on your computer:
 Wi-Fi access will also be required. Please set up [Eduroam](https://eduroam.org/) on your computer for your convenience.<br><br>
 
 Resources Used During Lectures (working on it):
-- slides
-- documents
-- examples
-- notebooks
+- [slides](1.slides/)
+- [documents](2.documents/)
+- [examples](3.examples/)
+- [notebooks](4.notebooks/)
 
 Additional Resources:
-- selected topics on Julia
+- [selected topics on Julia](5.julia/)
