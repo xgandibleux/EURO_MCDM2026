@@ -9,7 +9,7 @@ Steps to follow to install on your computer:
 
 Wi-Fi access will also be required. Please set up [Eduroam](https://eduroam.org/) on your computer for your convenience.<br><br>
 
-Resources Used During Lectures:
+Resources Used During Lectures (working on it):
 - slides
 - documents
 - examples
