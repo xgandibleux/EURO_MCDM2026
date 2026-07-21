@@ -13,7 +13,6 @@ model = Model( )
 
 set_optimizer(model,()->MOA.Optimizer(HiGHS.Optimizer))
 set_attribute(model, MOA.Algorithm(), MOA.EpsilonConstraint())
-
 optimize!(model)
 
 for i in 1:result_count(model)
@@ -24,7 +23,8 @@ for i in 1:result_count(model)
        println("$i: x=($x1_opt, $x2_opt) || y=f(x)=( $z1_opt , $z2_opt)")
 end
 
-#=
+#= ---  O U T P U T  ---
+
 1: x=(0.0, 0.0) || y=f(x)=( 0.0 , 0.0)
 2: x=(1.0, 0.0) || y=f(x)=( 1.0 , 1.0)
 3: x=(2.0, 0.0) || y=f(x)=( 2.0 , 2.0)
@@ -38,4 +38,5 @@ end
 11: x=(7.0, 3.0) || y=f(x)=( 10.0 , 16.0)
 12: x=(8.0, 3.0) || y=f(x)=( 11.0 , 17.0)
 13: x=(6.0, 6.0) || y=f(x)=( 12.0 , 24.0)
+
 =#
