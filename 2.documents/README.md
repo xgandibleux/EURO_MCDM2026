@@ -4,6 +4,8 @@ July 19 – August 1, 2026. Delft, the Netherlands<br><br>
 
 ## Documents
 
+- Ralph E. Steuer, Eng Ung Choo.  An interactive weighted Tchebycheff procedure 
+  for multiple objective programming. *Mathematical Programming* 26, 326–344, 1983.
 - Miles Lubin, Oscar Dowson, Joaquim Dias Garcia, Joey Huchette, Benoît Legat, Juan Pablo Vielma.
   JuMP 1.0: Recent improvements to a modeling language for mathematical optimization.
   *Mathematical Programming Computation*, 2023
